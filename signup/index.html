@@ -10,61 +10,62 @@ CMart - Sign Up Page
 	<link rel="stylesheet" type="text/css" href="../css/reset.css">
 	<link rel="stylesheet" type="text/css" href="../css/style.css">
 	<script type="text/javascript" src="../js/script.js"></script>
+	<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 </head>
 <body>
-	<div>
-		<!-- Comapany's Logo -->
-		<div>
+	<div class="center-box">
+		<!-- Company's Logo -->
+		<div id="logo">
 			CMart
 		</div>
 		<!-- Sign Up Section -->
 		<div>
-			<div>Sign Up</div>
+			<div class="heading">Sign Up</div>
 			<div>
 				<form>
-					<div>
+					<div class="input-div">
 						<div>
 							<label for="name">Name</label>
 						</div>
 						<div>
-							<input type="text" name="name" id="name" />
+							<input type="text" name="name" id="name" placeholder="Name" />
 						</div>
 					</div>
-					<div>
+					<div class="input-div">
 						<div>
 							<label for="email">Email</label>
 						</div>
 						<div>
-							<input type="email" name="email" id="email" />
+							<input type="email" name="email" id="email" placeholder="username@email.com" />
 						</div>
 					</div>
-					<div>
+					<div class="input-div">
 						<div>
 							<label for="password">Password</label>
 						</div>
 						<div>
-							<input type="password" name="password" id="password" />
+							<input type="password" name="password" id="password" placeholder="Password" />
 						</div>
 					</div>
-					<div>
+					<div class="input-div">
 						<div>
 							<label for="repassword">Re-enter Password</label>
 						</div>
 						<div>
-							<input type="password" name="repassword" id="repassword" />
+							<input type="password" name="repassword" id="repassword" placeholder="Re-enter Password" />
 						</div>
 					</div>
-					<div>
-						<input type="submit" name="signup" value="Sign Up">
+					<div class="input-div">
+						<button type="submit">Sign Up</button>
 					</div>
 				</form>
 			</div>
-			<div>
-				<div>or signup with</div>
-				<div>
-					<div>Google</div>
-					<div>Github</div>
-					<div>Facebook</div>
+			<div class="alternative-box">
+				<div class="label">or signup with</div>
+				<div class="social-icon-collection">
+					<div class="social-icon">Google</div>
+					<div class="social-icon">Github</div>
+					<div class="social-icon">Facebook</div>
 				</div>
 			</div>
 		</div>

@@ -1,0 +1,81 @@
+[{
+  "userId" : 1,
+  "name" : "Sujata Mehta",
+  "email" : "sujata.mehta123@email.com",
+  "password" : "Sujata123",
+  "phone" : "8964328734",
+  "address" : "1, Hauz Khas, Delhi",
+  "type" : "admin"
+},{
+  "userId" : 2,
+  "name" : "Lakshmi Verma",
+  "email" : "lakshmi.verma123@email.com",
+  "password" : "Laxmi123",
+  "phone" : "8964456734",
+  "address" : "2, Hauz Khas, Delhi",
+  "type" : "client"
+},{
+  "userId" : 3,
+  "name" : "Saanvi Verma",
+  "email" : "saanvi.verma123@email.com",
+  "password" : "Saanvi123",
+  "phone" : "8964325674",
+  "address" : "3, Hauz Khas, Delhi",
+  "type" : "client"
+},{
+  "userId" : 4,
+  "name" : "Karthik Kumar",
+  "email" : "karthik.kumar123@email.com",
+  "password" : "Karthik123",
+  "phone" : "8964325564",
+  "address" : "4, Hauz Khas, Delhi",
+  "type" : "client"
+},{
+  "userId" : 5,
+  "name" : "Upasna Patwardhan",
+  "email" : "upasna.patwardhan123@email.com",
+  "password" : "Upasna123",
+  "phone" : "8964367534",
+  "address" : "5, Hauz Khas, Delhi",
+  "type" : "client"
+},{
+  "userId" : 6,
+  "name" : "Tejaswi Aggarwal",
+  "email" : "tejaswi.aggarwal123@email.com",
+  "password" : "Tejaswi123",
+  "phone" : "8964345734",
+  "address" : "6, Hauz Khas, Delhi",
+  "type" : "client"
+},{
+  "userId" : 7,
+  "name" : "Varun Jaiswal",
+  "email" : "varun.jaiswal123@email.com",
+  "password" : "Varun123",
+  "phone" : "8994628734",
+  "address" : "7, Hauz Khas, Delhi",
+  "type" : "client"
+},{
+  "userId" : 8,
+  "name" : "Bhumika Rawat",
+  "email" : "bhumika.rawat123@email.com",
+  "password" : "Bhumika123",
+  "phone" : "89643285632",
+  "address" : "8, Hauz Khas, Delhi",
+  "type" : "client"
+},{
+  "userId" : 9,
+  "name" : "Harish Tyagi",
+  "email" : "harish.tyagi123@email.com",
+  "password" : "Harish123",
+  "phone" : "9646432873",
+  "address" : "9, Hauz Khas, Delhi",
+  "type" : "client"
+},{
+  "userId" : 10,
+  "name" : "Neelam Das",
+  "email" : "neelam.das123@email.com",
+  "password" : "Neelam123",
+  "phone" : "8567328734",
+  "address" : "10, Hauz Khas, Delhi",
+  "type" : "client"
+}]

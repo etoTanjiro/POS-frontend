@@ -9,6 +9,16 @@
 	--font-400: 0.75rem;
 }
 
+@media (max-width: 400px) {
+	:root{
+		--font-xl: 3rem;
+		--font-700: 1.5rem;
+		--font-600: 1rem;
+		--font-500: 0.66rem;
+		--font-400: 0.49rem;
+	}
+}
+
 *{
 	font-family: sans-serif;
 }
@@ -18,6 +28,7 @@ body{
 	display: flex;
 	align-items: center;
 	color: var(--primary-color);
+	font-size: var(--font-500);
 }
 
 .center-box{

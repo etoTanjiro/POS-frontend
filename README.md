@@ -4,6 +4,11 @@ A frontend design for POS system using HTML, CSS, JavaScript, Frameworks, Librar
 
 To build a **Point of Sale (POS) System** for a newly inaugurated retail store at SDA Market, Hauz Khas. Over the next five weeks, you will dive into the world of frontend development, learning various technologies and skills to create a functional and user-friendly POS system.
 
+## 6 Step Project
+
+There are 6 Steps to complete this project, these Steps will be added as per this project progress
+1. Creating **Login and Sign Up pages** using HTML, and CSS5 ... no JavaScript or any framework ... Completed : **Commit no. 7**
+
 ## Overview of Frontend Development
 
 Frontend development involves creating the visual and interactive aspects of a website or web application. As a frontend developer, you will work on building the user interface (UI) and ensuring a seamless user experience (UX). Key technologies and concepts in frontend development include:
